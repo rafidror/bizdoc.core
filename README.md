@@ -1,6 +1,6 @@
 # bizdoc.core
 
-BizDoc is a framework for developing form-flow solusion. It includes a workflow engine, a mailbox -like user interface, and set of built-in components for data analysis.
+BizDoc is a framework for developing form-flow solution. It includes a workflow engine, a mailbox -like user interface, and set of built-in components for data analysis.
 
 ## Setting up
 
